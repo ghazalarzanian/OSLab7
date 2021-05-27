@@ -1,3 +1,3 @@
-ln -b
-ln -v
+ln -s
 ln -t
+ln -
